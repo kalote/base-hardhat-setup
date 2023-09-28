@@ -1,6 +1,6 @@
 # Basic sample hardhat project
 
-This project is used as a guide to show how to setup hardhat with LUKSO. You can find more info here: [Hardhat guide](https://docs.lukso.tech/guides/hardhat-walkthrough/hardhat-base-setup)
+This project is used as a guide to show how to setup hardhat with LUKSO. You can find more info here: [Hardhat getting started](https://docs.lukso.tech/contracts/getting-started)
 
 ## Environment variables
 
